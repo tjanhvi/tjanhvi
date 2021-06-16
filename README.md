@@ -36,4 +36,15 @@
 <img align="left" alt="Wordpress" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
 <br><br>
 
+<a href="https://github.com/tjanhvi">
 <img src="https://github-readme-stats.vercel.app/api?username=tjanhvi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+</a>
+<br><br>
+
+<a href="https://github.com/remcohalman/github-readme-stats">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tjanhvi&layout=compact&theme=blue-green" />
+</a>
+
+<br><br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tjanhvi)](https://git.io/streak-stats)
