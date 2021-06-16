@@ -9,9 +9,6 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Love horror movies😅
 
-<br>
-![](https://komarev.com/ghpvc/?username=tjanhvi&color=blue)
-<br>
 ### Languages:
 
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -37,6 +34,7 @@
 <img align="left" alt="Wordpress" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
 <br><br>
 
+![](https://komarev.com/ghpvc/?username=tjanhvi&color=blue)
 <a href="https://github.com/tjanhvi">
 <img src="https://github-readme-stats.vercel.app/api?username=tjanhvi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </a>
