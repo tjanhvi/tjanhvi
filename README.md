@@ -9,7 +9,6 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Love horror movies😅
 
-
 <br>
 ![](https://komarev.com/ghpvc/?username=tjanhvi&color=blue)
 <br>
