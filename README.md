@@ -1,9 +1,5 @@
 ### Hello, I'm Janhvi Tiwari! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
 
-![](https://komarev.com/ghpvc/?username=tjanhvi&color=blue)
-
-
-
 - 🔭 I’m currently working on open Soucre Contributions under LetsGrowMore's Summer Of Code
 - 🌱 I’m currently pursuing B.tech CSE
 - 👯 I’m looking to collaborate on Web Development, Python
@@ -12,6 +8,12 @@
 - 📫 How to reach me: [linkedin: @JanhviTiwari](https://www.linkedin.com/in/janhvi-tiwari-2837331b5/), [instagram: @tjanhvi560](https://www.instagram.com/tjanhvi560/), [facebook: @JanhviTiwari](https://www.facebook.com/janhvi.tiwari.7792)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Love horror movies😅
+
+
+<br><br>
+![](https://komarev.com/ghpvc/?username=tjanhvi&color=blue)
+<br><br>
+
 
 ### Languages:
 
