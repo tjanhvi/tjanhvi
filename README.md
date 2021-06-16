@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Web Development, Python
 - 🤔 I’m looking for help with Data Science
 - 💬 Ask me about Python, C++, Web Development
-- 📫 How to reach me: linkedin:@JanhviTiwari
+- 📫 How to reach me: linkedin:@JanhviTiwari instagram:@tjanhvi560 facebook:@JanhviTiwari
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Love horror movies😅
 
