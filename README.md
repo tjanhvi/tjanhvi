@@ -8,12 +8,8 @@
 - 📫 How to reach me: [linkedin: @JanhviTiwari](https://www.linkedin.com/in/janhvi-tiwari-2837331b5/), [instagram: @tjanhvi560](https://www.instagram.com/tjanhvi560/), [facebook: @JanhviTiwari](https://www.facebook.com/janhvi.tiwari.7792)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Love horror movies😅
-
-<br>
 ![](https://komarev.com/ghpvc/?username=tjanhvi&color=blue)
 <br>
-
-
 ### Languages:
 
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
