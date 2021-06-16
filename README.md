@@ -10,9 +10,9 @@
 - ⚡ Fun fact: Love horror movies😅
 
 
-<br><br>
+<br>
 ![](https://komarev.com/ghpvc/?username=tjanhvi&color=blue)
-<br><br>
+<br>
 
 
 ### Languages:
