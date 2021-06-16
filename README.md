@@ -1,4 +1,6 @@
-### Hello, I'm Janhvi Tiwari! 👋
+### Hello, I'm Janhvi Tiwari! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
+
+![](https://komarev.com/ghpvc/?username=tjanhvi&color=blue)
 
 
 
