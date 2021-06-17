@@ -41,16 +41,4 @@
 </a>
 <br><br>
 
-<table>
-<tr>
-<td>
-<a href="https://github.com/remcohalman/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tjanhvi&layout=compact&theme=blue-green" />
-</a>
-</td>
-<td>
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tjanhvi)](https://git.io/streak-stats)
-
-  </td>
-</tr>
-</table>
+<table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjanhvi&layout=compact"/></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=tjanhvi"/></td></tr></table>
