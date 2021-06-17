@@ -49,7 +49,8 @@
 </a>
 </td>
 <td>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tjanhvi)](https://git.io/streak-stats)
-</td>
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tjanhvi)](https://git.io/streak-stats)
+
+  </td>
 </tr>
 </table>
