@@ -42,3 +42,6 @@
 <br><br>
 
 <table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjanhvi&layout=compact"/></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=tjanhvi"/></td></tr></table>
+
+
+![Janhvi's github activity graph](https://activity-graph.herokuapp.com/graph?username=tjanhvi&bg_color=000000&color=4cd8f0&line=2fc8ee&point=ffffff&area=true&hide_border=true)
