@@ -39,12 +39,15 @@
 
 <h2 align="center">GitHub Analytics ⚙️ &nbsp;</h2>
 
+<p align="center">
 <a href="https://github.com/tjanhvi">
 <img src="https://github-readme-stats.vercel.app/api?username=tjanhvi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </a>
 <br><br>
-
+</p>
+  
+<p align="center">
 <table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjanhvi&layout=compact"/></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=tjanhvi"/></td></tr></table>
-
+</p>
 
 ![Janhvi's github activity graph](https://activity-graph.herokuapp.com/graph?username=tjanhvi&bg_color=000000&color=4cd8f0&line=2fc8ee&point=ffffff&area=true&hide_border=true)
