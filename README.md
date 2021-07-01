@@ -36,6 +36,9 @@
 
 ![](https://komarev.com/ghpvc/?username=tjanhvi&color=blue)
 <br>
+
+<h2 align="center">GitHub Analytics ⚙️ &nbsp;</h2>
+
 <a href="https://github.com/tjanhvi">
 <img src="https://github-readme-stats.vercel.app/api?username=tjanhvi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </a>
