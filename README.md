@@ -1,5 +1,6 @@
 ### Hello, I'm Janhvi Tiwari! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
-
+![](https://komarev.com/ghpvc/?username=tjanhvi&color=blue)
+<br>
 - 🔭 I’m currently working on open Soucre Contributions under LetsGrowMore's Summer Of Code
 - 🌱 I’m currently pursuing B.tech CSE
 - 👯 I’m looking to collaborate on Web Development, Python
@@ -38,7 +39,7 @@
 </p>
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=tjanhvi&color=blue)
+
 <br>
 
 <h2 align="center">GitHub Analytics ⚙️ &nbsp;</h2>
