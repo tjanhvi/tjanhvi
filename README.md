@@ -35,7 +35,7 @@
 </p>
 <br>
 
-<h2 align="center">GitHub Analytics ⚙️ &nbsp;</h2>
+<h2 align="center">⚙️ GitHub Analytics ⚙️ &nbsp;</h2>
 
 <p align="center">
 <a href="https://github.com/tjanhvi">
