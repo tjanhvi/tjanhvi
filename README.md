@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/tjanhvi/tjanhvi/master/Profile.gif)
+![](https://raw.githubusercontent.com/tjanhvi/tjanhvi/master/Profile1.gif)
 
 WELCOME TO MY GITHUB PROFILE👇 <br>
 ![](https://komarev.com/ghpvc/?username=tjanhvi&color=blue)
