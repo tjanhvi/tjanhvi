@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/tjanhvi/tjanhvi/master/Profile1.gif)
+<br>
 
- <br>
 ![](https://komarev.com/ghpvc/?username=tjanhvi&color=blue)
 <br>
 - 🔭 I’m currently working on open Soucre Contributions under LetsGrowMore's Summer Of Code
