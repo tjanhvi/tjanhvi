@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/tjanhvi/tjanhvi/master/Profile1.gif)
 <br>
-[!\[_\]](%3Cimg%20align=%22right%22%20alt=%22GIF%22%20src=%22https://github.com/tjanhvi/tjanhvi/blob/master/code.gif?raw=true%22%20width=%22500%22%20height=%22320%22%20/%3E)
+
 ![](https://komarev.com/ghpvc/?username=tjanhvi&color=blue)
 <br>
 - 🔭 I’m currently working on open Soucre Contributions under LetsGrowMore's Summer Of Code
