@@ -38,7 +38,7 @@
 <br>
 
 <h2 align="center">⚙️ GitHub Analytics ⚙️</h2>
-
+<br>
 <p align="center">
 <a href="https://github.com/tjanhvi">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tjanhvi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
