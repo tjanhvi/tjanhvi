@@ -9,7 +9,7 @@
 
 <br>
 
-- 🔭 I’m currently working as participant in a open Soucre Contribution Program LGSMOC'21
+- 🔭 I’m currently working as participant in a Open Soucre Contribution Program LGSMOC'21
 - 🌱 I’m currently pursuing B.tech CSE
 - 👯 I’m looking to collaborate on C++, Web Development and Python
 - 🤔 I’m looking for help with Data Science
