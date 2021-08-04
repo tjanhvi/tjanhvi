@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=tjanhvi&color=blue)
 <br>
-- 🔭 I’m currently working on open Soucre Contributions under LetsGrowMore's Summer Of Code
+- 🔭 I’m currently working as participant in a open Soucre Contribution Program LGSMOC'21
 - 🌱 I’m currently pursuing B.tech CSE
 - 👯 I’m looking to collaborate on C++, Web Development and Python
 - 🤔 I’m looking for help with Data Science
