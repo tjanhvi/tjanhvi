@@ -18,11 +18,10 @@
 <a href="https:/https://www.facebook.com/janhvi.tiwari.773124/www.facebook.com/janhvi.tiwari.773124" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/janhvi.tiwari.773124" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/janhvi_560" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/janhvi_560" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tjanhvi560" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/tjanhvi560" height="30" width="40" /></a>
-<a href="https://replit.com/@tjanhvi560" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/replit.svg" alt="https://replit.com/@tjanhvi560" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/tjanhvi560/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/tjanhvi560/" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">⚛ Languages ⚛</h2>
+<h2 align="center">⚛ Languages and Tools ⚛</h2>
 
 <p align="center">
  <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="20"/>&nbsp;
@@ -31,20 +30,14 @@
  <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C"/>&nbsp;
  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>&nbsp;
  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>&nbsp;
-</p>
-
-<br>
-
-<h2 align="center">⚛ Tools ⚛</h2>
-
-<p align="center">
-<img alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />&nbsp; &nbsp;
-<img alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />&nbsp; &nbsp;
-<img alt="Android" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />&nbsp; &nbsp;
-<img alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />&nbsp; &nbsp;
-<img alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />&nbsp; &nbsp;
+ <img alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />&nbsp;
+<img alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />&nbsp;
+<img alt="Android" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />&nbsp; 
+<img alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />&nbsp;
+<img alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />&nbsp;
 <img alt="Wordpress" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
 </p>
+
 <br>
 
 <h2 align="center">⚙️ GitHub Analytics ⚙️</h2>
