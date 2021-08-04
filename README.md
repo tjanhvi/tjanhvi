@@ -12,6 +12,16 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact:Favourite --> Lucifer: The Morning Star / horror movies😂
 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/janhvi-tiwari-2837331b5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/janhvi-tiwari-2837331b5/" height="30" width="40" /></a>
+<a href="https:/https://www.facebook.com/janhvi.tiwari.773124/www.facebook.com/janhvi.tiwari.773124" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/janhvi.tiwari.773124" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/janhvi_560" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/janhvi_560" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/tjanhvi560" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/tjanhvi560" height="30" width="40" /></a>
+<a href="https://replit.com/@tjanhvi560" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/replit.svg" alt="https://replit.com/@tjanhvi560" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/tjanhvi560/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/tjanhvi560/" height="30" width="40" /></a>
+</p>
+
 <h2 align="center">⚛ Languages ⚛</h2>
 
 <p align="center">
