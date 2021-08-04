@@ -52,3 +52,7 @@
 </p> 
 
 ![Janhvi's github activity graph](https://activity-graph.herokuapp.com/graph?username=tjanhvi&bg_color=000000&color=4cd8f0&line=2fc8ee&point=ffffff&area=true&hide_border=true)
+
+<summary>:Trophy: Github Profile Trophy</summary>
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=tjanhvi&theme=monokai&row=1&no-frame=true&no-bg=true/">
