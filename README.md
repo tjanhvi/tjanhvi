@@ -89,4 +89,4 @@
 
 ![snake gif](https://github.com/tjanhvi/tjanhvi/blob/output/github-contribution-grid-snake.svg)
 
-![footer](https://raw.githubusercontent.com/tjanhvi/tjanhvi/main/footer.png)
+<!-- ![footer](https://raw.githubusercontent.com/tjanhvi/tjanhvi/main/footer.png) -->
