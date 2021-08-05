@@ -11,8 +11,6 @@
 <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/tjanhvi?label=Followers&style=social"> • 
 <img src="https://img.shields.io/github/stars/tjanhvi?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 
-<br>
-
 - 🔭 I’m currently working as participant in a Open Soucre Contribution Program LGSMOC'21
 - 🌱 I’m currently pursuing B.tech CSE
 - 👯 I’m looking to collaborate on C++, Web Development and Python
