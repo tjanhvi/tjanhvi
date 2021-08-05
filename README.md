@@ -87,3 +87,4 @@
 <br/>
 <img src="https://github-profile-trophy.vercel.app/?username=tjanhvi&theme=monokai&row=1&no-frame=true&no-bg=true/">
 
+![snake gif](https://github.com/tjanhvi/tjanhvi/blob/output/github-contribution-grid-snake.svg)
