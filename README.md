@@ -4,6 +4,10 @@
 <p align="center">
 <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" />
 </p>
+<p align="center">
+<img src="https://madewithlove.now.sh/in?heart=true&template=for-the-badge" width="50" height="50" />
+</p>
+
   
 ![](https://komarev.com/ghpvc/?username=tjanhvi&color=blue)•
 <img src="https://badges.pufler.dev/repos/tjanhvi" />•
@@ -22,11 +26,20 @@
 
 <h3 align="center">⚛ Connect With Me ⚛</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/janhvi-tiwari-2837331b5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/janhvi-tiwari-2837331b5/" height="30" width="40" /></a>
-<a href="https:/https://www.facebook.com/janhvi.tiwari.773124/www.facebook.com/janhvi.tiwari.773124" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/janhvi.tiwari.773124" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/janhvi_560" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/janhvi_560" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tjanhvi560" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/tjanhvi560" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/tjanhvi560/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/tjanhvi560/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/janhvi-tiwari-2837331b5/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/janhvi-tiwari-2837331b5/" height="30" width="40" />
+  </a>
+<a href="https:/https://www.facebook.com/janhvi.tiwari.773124/www.facebook.com/janhvi.tiwari.773124" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/janhvi.tiwari.773124" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/janhvi_560" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/janhvi_560" height="30" width="40" />
+</a>
+<a href="https://www.hackerrank.com/tjanhvi560" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/tjanhvi560" height="30" width="40" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/tjanhvi560/" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/tjanhvi560/" height="30" width="40" />
+</a>
 </p>
 
 <h2 align="center">⚛ Languages and Tools ⚛</h2>
