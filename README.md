@@ -83,12 +83,14 @@
 <br>
 <p align="center">
 <a href="https://github.com/tjanhvi">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tjanhvi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tjanhvi&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tjanhvi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
 </a>
 </p>
 
-  
+<p align = "center">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tjanhvi&layout=compact&langs_count=8&theme=algolia"/>
+</p> 
+ 
 <p align = "center">
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=tjanhvi&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
 </p> 
