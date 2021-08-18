@@ -11,11 +11,13 @@
 <img src="https://img.shields.io/github/stars/tjanhvi?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 
 - 🔭 I’m currently working as participant in a Open Soucre Contribution Program GWSOC'21
+- 🔭  I was the contributior in a Open Soucre Contribution Program LGSMOC'21
 - 🌱 I’m currently pursuing B.tech CSE
 - 👯 I’m looking to collaborate on C++, Web Development and Python
 - 🤔 I’m looking for help with Data Science
 - 💬 Ask me about Python, C++, Web Development and related to tech
 - 📫 How to reach me: [linkedin: @JanhviTiwari](https://www.linkedin.com/in/janhvi-tiwari-2837331b5/), [instagram: @tjanhvi560](https://www.instagram.com/tjanhvi560/), [facebook: @JanhviTiwari](https://www.facebook.com/janhvi.tiwari.7792)
+- 📫 My Portfolio Website - (http://janhvi.epizy.com/) 😎
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact:Favourite --> Lucifer: The Morning Star / horror movies😂
 
