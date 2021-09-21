@@ -4,13 +4,12 @@
 <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" />
 </p>
 
-<center>
 ![](https://komarev.com/ghpvc/?username=tjanhvi&color=blue)•
 <img src="https://badges.pufler.dev/repos/tjanhvi" />•
 <img src="https://badges.pufler.dev/commits/monthly/tjanhvi" />•
 <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/tjanhvi?label=Followers&style=social"> • 
 <img src="https://img.shields.io/github/stars/tjanhvi?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
-</center>
+
   
 - 🔭 I’m currently working as contributor in a Open Soucre Contribution Program GWSOC'21
 - 🔭  I was the contributior in a Open Soucre Contribution Program LGSMOC'21
