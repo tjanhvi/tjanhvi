@@ -8,7 +8,8 @@
 <img src="https://badges.pufler.dev/repos/tjanhvi" />•
 <img src="https://badges.pufler.dev/commits/monthly/tjanhvi" />•
 <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/tjanhvi?label=Followers&style=social"> • 
-<img src="https://img.shields.io/github/stars/tjanhvi?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+<img src="https://img.shields.io/github/stars/tjanhvi?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> • 
+<img  src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103/(https://github.com/Prashant-desune)"> 
 
   
 - 🔭 I’m currently working as contributor in a Open Soucre Contribution Program GWSOC'21
