@@ -97,7 +97,7 @@
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tjanhvi&layout=compact&langs_count=8&theme=algolia"/> 
     </td>
     <td>
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=tjanhvi&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
+      <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=tjanhvi&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
     </td>
   </tr>
 </table>
