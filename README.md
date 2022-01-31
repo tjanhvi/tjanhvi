@@ -107,4 +107,4 @@
 ![snake gif](https://github.com/tjanhvi/tjanhvi/blob/output/github-contribution-grid-snake.svg)
 
 <!-- ![footer](https://raw.githubusercontent.com/tjanhvi/tjanhvi/main/footer.png) -->
- <img height="200px" width="800" src="https://github.com/tjanhvi/tjanhvi/blob/main/dino.gif"/> 
+ <img height="250px" width="800" src="https://github.com/tjanhvi/tjanhvi/blob/main/dino.gif"/> 
