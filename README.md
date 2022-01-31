@@ -108,3 +108,4 @@
 
 <!-- ![footer](https://raw.githubusercontent.com/tjanhvi/tjanhvi/main/footer.png) -->
 ![Dino](https://github.com/tjanhvi/tjanhvi/blob/main/dino.gif)
+ <img height="150px" width="800" src="https://github.com/tjanhvi/tjanhvi/blob/main/dino.gif"/> 
