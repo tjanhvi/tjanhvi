@@ -90,13 +90,17 @@
 </a>
 </p>
 
-<p align = "center">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tjanhvi&layout=compact&langs_count=8&theme=algolia"/>
-</p> 
- 
-<p align = "center">
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=tjanhvi&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
-</p> 
+
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tjanhvi&layout=compact&langs_count=8&theme=algolia"/> 
+    </td>
+    <td>
+      <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=tjanhvi&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
+    </td>
+  </tr>
+</table>
 
 ![Janhvi's github activity graph](https://activity-graph.herokuapp.com/graph?username=tjanhvi&bg_color=000000&color=4cd8f0&line=2fc8ee&point=ffffff&area=true&hide_border=true)
 
