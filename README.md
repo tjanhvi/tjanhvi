@@ -12,12 +12,11 @@
 <img  src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103/(https://github.com/Prashant-desune)"> 
 
   
-- 🔭 I’m currently working as contributor in a Open Soucre Contribution Program GWSOC'21
-- 🔭  I was the contributior in a Open Soucre Contribution Program LGSMOC'21
+- 🔭  I was the contributior in a Open Soucre Contribution Program LGSMOC'21 and GWSOC'21
 - 🌱 I’m currently pursuing B.tech CSE
-- 👯 I’m looking to collaborate on C++, Web Development and Python
+- 👯 I’m looking to collaborate on C++, Python, Frontend, Reactjs
 - 🤔 I’m looking for help with Data Science
-- 💬 Ask me about Python, C++, Web Development and related to tech
+- 💬 Ask me about Python, C++, Frontend Development and related to tech
 - 📫 How to reach me: [linkedin: @JanhviTiwari](https://www.linkedin.com/in/janhvi-tiwari-2837331b5/), [instagram: @tjanhvi560](https://www.instagram.com/tjanhvi560/), [facebook: @JanhviTiwari](https://www.facebook.com/janhvi.tiwari.7792)
 - 📫 My Portfolio Website - (http://janhvi.epizy.com/)
 - 😄 Pronouns: She/Her
