@@ -12,6 +12,7 @@
 <img  src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103/(https://github.com/Prashant-desune)"> 
 
   
+- 🔭  I was the mentee in Openforce conducted by Codeflow
 - 🔭  I was the contributior in a Open Soucre Contribution Program LGSMOC'21 and GWSOC'21
 - 🌱 I’m currently pursuing B.tech CSE
 - 👯 I’m looking to collaborate on C++, Python, Frontend, Reactjs
