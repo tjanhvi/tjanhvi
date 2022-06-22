@@ -94,10 +94,10 @@
 <table>
   <tr>
     <td>
-      <img height="180em" width="90%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tjanhvi&layout=compact&langs_count=8&theme=algolia"/> 
+      <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tjanhvi&layout=compact&langs_count=8&theme=algolia"/> 
     </td>
     <td>
-      <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=tjanhvi&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
+      <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=tjanhvi&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
     </td>
   </tr>
 </table>
