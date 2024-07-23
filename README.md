@@ -26,19 +26,19 @@
 <h2 align="center">⚛ Connect With Me ⚛</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/janhvi-tiwari-2837331b5/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" style="fill: #2867B2;" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" style="color: #2867B2;" />
   </a>
   <a href="https://www.facebook.com/janhvi.tiwari.773124/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="30" width="40" style="fill: #1877F2;" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="30" width="40" style="color: #1877F2;" />
   </a>
   <a href="https://www.codechef.com/users/janhvi_560" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" style="fill: #1A171B;" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" style="color: #1A171B;" />
   </a>
   <a href="https://www.hackerrank.com/tjanhvi560" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="HackerRank" height="30" width="40" style="fill: #2EC866;" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="HackerRank" height="30" width="40" style="color: #2EC866;" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/tjanhvi560/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="GeeksforGeeks" height="30" width="40" style="fill: #2E8B57;" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="GeeksforGeeks" height="30" width="40" style="color: #2E8B57;" />
   </a>
 </p>
 
