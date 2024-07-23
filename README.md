@@ -26,9 +26,7 @@
 <h2 align="center">⚛ Connect With Me ⚛</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/janhvi-tiwari-2837331b5/" target="blank">
-    <svg xmlns="http://www.w3.org/2000/svg" height="30" width="40" viewBox="0 0 24 24" fill="#2867B2">
-      <path d="M22,0H2C0.9,0,0,0.9,0,2v20c0,1.1,0.9,2,2,2h20c1.1,0,2-0.9,2-2V2C24,0.9,23.1,0,22,0z M7.8,19.5H4.9V9.8h2.9V19.5z M6.3,8.1c-0.8,0-1.4-0.6-1.4-1.3c0-0.8,0.6-1.4,1.4-1.4c0.8,0,1.3,0.6,1.3,1.4C7.6,7.5,7.1,8.1,6.3,8.1z M20,19.5h-3.1v-5.2c0-1.2-0.4-2-1.4-2c-0.8,0-1.3,0.6-1.5,1.2c-0.1,0.3-0.1,0.7-0.1,1.1v4.9H9.9c0,0,0.1-10.3,0-11h3.1v1.6c0.4-0.6,1.1-1.5,2.7-1.5c2,0,3.5,1.3,3.5,4.1V19.5z"/>
-    </svg>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" style="color: #2867B2;" />
   </a>
   <a href="https://www.facebook.com/janhvi.tiwari.773124/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="30" width="40" style="color: #1877F2;" />
