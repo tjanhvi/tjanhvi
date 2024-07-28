@@ -31,14 +31,14 @@
   <a href="https://x.com/tjanhvi" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="Twitter" height="45" width="45" style="color: #1877F2;" />
   </a>
-  <a href="https://www.codechef.com/users/janhvi_560" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" style="color: #1A171B;" />
+  <a href="https://www.facebook.com/janhvi.tiwari.7792" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="Facebook" height="45" width="45" style="color: #1877F2;" />
   </a>
-  <a href="https://www.hackerrank.com/tjanhvi560" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="HackerRank" height="30" width="40" style="color: #2EC866;" />
+   <a href="https://www.instagram.com/tjanhvi560/" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Facebook" height="45" width="45" style="color: #1877F2;" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/tjanhvi560/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="GeeksforGeeks" height="30" width="40" style="color: #2E8B57;" />
+   <a href="hhttps://wa.me/9076928886" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" alt="Facebook" height="45" width="45" style="color: #1877F2;" />
   </a>
 </p>
 
