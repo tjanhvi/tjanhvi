@@ -18,7 +18,7 @@
 - 👯 I’m looking to collaborate on C++, Python, Frontend, Reactjs
 - 🤔 I’m looking for help with Data Science
 - 💬 Ask me about Python, C++, Frontend Development and related to tech
-- 📫 How to reach me: [linkedin: @JanhviTiwari](https://www.linkedin.com/in/janhvi-tiwari-2837331b5/), [instagram: @tjanhvi560](https://www.instagram.com/tjanhvi560/), [facebook: @JanhviTiwari](https://www.facebook.com/janhvi.tiwari.7792)
+- 📫 How to reach me: [linkedin: @JanhviTiwari](https://www.linkedin.com/in/tjanhvi/), [instagram: @tjanhvi560](https://www.instagram.com/tjanhvi560/), [facebook: @JanhviTiwari](https://www.facebook.com/janhvi.tiwari.7792)
 - 📫 My Portfolio Website - (https://tjanhvi.github.io/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact:Favourite --> Lucifer: The Morning Star / horror movies😂
