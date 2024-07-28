@@ -26,7 +26,7 @@
 <h2 align="center">⚛ Connect With Me ⚛</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/janhvi-tiwari-2837331b5/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" style="color: #2867B2;" />
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" height="30" width="40" style="color: #2867B2;" />
   </a>
   <a href="https://www.facebook.com/janhvi.tiwari.773124/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="30" width="40" style="color: #1877F2;" />
